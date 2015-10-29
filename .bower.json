@@ -1,0 +1,15 @@
+{
+  "name": "ip-mobile-nav",
+  "authors": [
+    "John Goerl <johng@inverseparadox.net>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "**/*.md"
+  ],
+  "description": "Front end plugin for mobile nav",
+  "main": "_mobile-nav.scss",
+  "license": "MIT",
+  "homepage": ""
+}
